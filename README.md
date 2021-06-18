@@ -57,10 +57,16 @@ la magnitud y la polaridad del voltaje V.
 
 9. Determine la resistencia total de las redes que se muestran en la figura 5-52.
 
+![image](https://user-images.githubusercontent.com/84587091/122514496-ac413080-cfd1-11eb-9f1c-4ffeed5cecbe.png)
+
+![image](https://user-images.githubusercontent.com/84587091/122514989-6769c980-cfd2-11eb-89e8-58c47cabc624.png)
+
 11. Para cada uno de los circuitos de la figura 5-54, determine la resistencia total,
 RT, y la corriente I.
 
 ![image](https://user-images.githubusercontent.com/84427371/122505797-adb72c80-cfc2-11eb-8341-583991188b49.png)
+
+![image](https://user-images.githubusercontent.com/84587091/122515613-52416a80-cfd3-11eb-9843-b7d1feda38ce.png)
 
 13. Para el circuito de la figura 5-56 encuentre las siguientes cantidades:
 a. La corriente del circuito.
