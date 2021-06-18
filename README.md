@@ -65,21 +65,13 @@ a. La corriente, I.
 b. La caída de voltaje en cada resistor en el circuito.
 c. El voltaje en las terminales abiertas a y b.
 
-![image](https://user-images.githubusercontent.com/84427371/122507174-56ff2200-cfc5-11eb-8e25-4fe34f764bff.png)
-
 17. Repita el problema 16 para el circuito de la figura 5-60.
 
 ![image](https://user-images.githubusercontent.com/84427371/122505875-d17a7280-cfc2-11eb-9c4e-f2bad9e54e53.png)
 
-![image](https://user-images.githubusercontent.com/84427371/122507190-60888a00-cfc5-11eb-8ab6-9306d90effb6.png)
-
-
 19. Repita el problema 18 para el circuito de la figura 5-62.
 
 ![image](https://user-images.githubusercontent.com/84427371/122505901-e3f4ac00-cfc2-11eb-98f0-52bf11d2b381.png)
-
-![image](https://user-images.githubusercontent.com/84427371/122507206-6bdbb580-cfc5-11eb-8045-cdcc154dd69d.png)
-
 
 5-5 Intercambio de componentes en serie
 21. Vuelva a dibujar los circuitos de la figura 5-64 para mostrar una sola fuente de
@@ -87,25 +79,16 @@ voltaje para cada circuito. Encuentre la corriente para cada circuito.
 
 ![image](https://user-images.githubusercontent.com/84427371/122505939-f373f500-cfc2-11eb-88e3-a3a57457c754.png)
 
-![image](https://user-images.githubusercontent.com/84427371/122507243-78600e00-cfc5-11eb-8625-f9cff3247ebb.png)
-
 5-6 Regla del divisor de voltaje
 23. Utilice la regla del divisor de voltaje para determinar el voltaje en cada resistor en los circuitos de la figura 5-66. Use sus resultados para verificar la ley de
 voltaje de Kirchhoff para cada circuito.
 
 ![image](https://user-images.githubusercontent.com/84427371/122505959-fd95f380-cfc2-11eb-8910-849e3412b6af.png)
 
-![image](https://user-images.githubusercontent.com/84427371/122507322-9ded1780-cfc5-11eb-8f21-f02c55d6063e.png)
-
 25. Vea los circuitos de la figura 5-68:
 a. Encuentre los valores de los resistores desconocidos.
 b. Calcule el voltaje en cada resistor.
 c. Determine la potencia disipada por cada resistor.
-
-![image](https://user-images.githubusercontent.com/84427371/122507417-c8d76b80-cfc5-11eb-89ce-a86f3146e513.png)
-
-![image](https://user-images.githubusercontent.com/84427371/122507430-d2f96a00-cfc5-11eb-8031-a0926d4eb9ab.png)
-
 
 27. Una serie de focos se conecta a una fuente de 120 V como se muestra en la figura 5-70.
 a. Determine la corriente en el circuito.
@@ -207,17 +190,12 @@ figura 6-66.
 25. Sin usar lápiz, papel o calculadora determine la resistencia aproximada de la
 red de la figura 6-68. 
 
-![image](https://user-images.githubusercontent.com/84427371/122507479-e99fc100-cfc5-11eb-8190-4bf15d0c38cd.png)
-
-
 6-4 Fuentes de voltaje en paralelo
 27. Dos baterías de 20 V se conectan en paralelo para suministrar corriente a una
 carga de 100 V, como se muestra en la figura 6-69. Determine la corriente en
 la carga y en cada batería. 
 
-
-![image](https://user-images.githubusercontent.com/84427371/122507506-f4f2ec80-cfc5-11eb-8862-5479a8294f2f.png)
-
+![image](https://user-images.githubusercontent.com/84427371/122506621-56b25700-cfc4-11eb-8e66-d6d2a63ad082.png)
 
 6-5 Regla del divisor de corriente
 29. Utilice la regla del divisor de corriente para encontrar las corrientes I1 e I2 en
@@ -225,16 +203,9 @@ las redes de la figura 6-71.
 
 ![image](https://user-images.githubusercontent.com/84427371/122506660-65007300-cfc4-11eb-9d64-ff178ae4a6c2.png)
 
-![image](https://user-images.githubusercontent.com/84427371/122507567-0c31da00-cfc6-11eb-9015-aaf9c05dcc18.png)
-
 30. Repita el problema 29 para las redes de la figura 6-72.
 
-32.Utilice la regla de divisor de corrientes para determinar las resistencias desconocidas en la red de la figura 6-75 
-![image](https://user-images.githubusercontent.com/84427371/122507641-2e2b5c80-cfc6-11eb-9e3f-3e123b8d4f48.png)
-
 33. Utilice la regla del divisor de corriente para determinar las resistencias desconocidas en la red de la figura 6-75.
-
-![image](https://user-images.githubusercontent.com/84427371/122507699-44d1b380-cfc6-11eb-9a9d-2550d4e834b3.png)
 
 35. Vea el circuito de la figura 6-77:
 a. Determine la resistencia equivalente RT, del circuito.
@@ -296,4 +267,13 @@ M, como se muestra en la figura 6-86.
 
 VIDEO:
 
-CONCLUSIONES
+CONCLUSIONES: 
+-En base a conceptos ya adquiridos como lo es la relación existente entre corriente, voltaje, potencia y resistores, se da paso al estudio del comportamiento de circuitos que tienen varios resistores en serie. Así mismo se verifica la importancia del uso de la ley de Ohm para la deducción de la regla del divisor de voltaje y verificación de la ley de voltaje de Kirchhoff. 
+
+-Por otra parte se analiza el funcionamiento y desarrollo de un circuito en paralelo y un circuito en serie, las diferencias y semejanzas entre ellos, entre otros aspectos fundamentales para su comprensión.  
+
+ RECOMENDACIONES: 
+ 
+Se recomienda hacer uso de diversas aplicaciones como calculadoras, simuladores, entre otros; para un mejor comprendimiento del tema estudiado. 
+
+
