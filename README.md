@@ -171,13 +171,6 @@ foco.
 
 c. Calcule la potencia disipada por cada foco.
 
-d. Si un solo foco llegara a estar en circuito abierto, la serie entera dejaría de
-funcionar. Para prevenir que ello ocurra, cada foco tiene una pequeña cinta
-de metal que pone en corto al foco cuando el filamento falla. Repita los
-pasos (a) a (c), si dos focos de la serie se quemaran.
-
-e. Basado en sus cálculos del paso (d), ¿qué cree que pasaría con la esperanza de vida del resto de los focos, si los dos que fallan no fueran reemplazados?
-
 ![image](https://user-images.githubusercontent.com/84427371/122506040-23bb9380-cfc3-11eb-98db-6c8b094dfdfa.png)
 
 ![image](https://user-images.githubusercontent.com/84427371/122508474-a8a8ac00-cfc7-11eb-9e8d-b502a09f4d61.png)
@@ -196,27 +189,37 @@ calcule el voltaje Va.
 ![image](https://user-images.githubusercontent.com/84427371/122506098-3b931780-cfc3-11eb-95ec-d74475041eac.png)
 
 5-9 Resistencia interna de fuentes de voltaje
+
 33. Se mide el voltaje en una batería que tiene un voltaje de terminales abiertas de
-14.2 V. Cuando se conecta a una carga de 100 , el voltaje medido entre las
-terminales de la batería cae a 6.8 V.
+14.2 V. Cuando se conecta a una carga de 100 Ω, el voltaje medido entre las terminales de la batería cae a 6.8 V.
+
 a. Determine la resistencia interna de la batería.
-b. Si la carga de 100  fuera reemplazada con una de 200 , ¿qué voltaje se
+b. Si la carga de 100 Ω fuera reemplazada con una de 200 Ω, ¿qué voltaje se
 mediría en las terminales de la batería?
 
+![image](https://user-images.githubusercontent.com/84587091/122524660-05af5c80-cfde-11eb-944b-56a080e7e9a8.png)
+
 5-10 Efectos de carga del amperímetro
-35. Para los circuitos en serie de la figura 5-74, determine la corriente en cada circuito. Si un amperímetro que tiene una resistencia interna de 50  se usa para
+
+35. Para los circuitos en serie de la figura 5-74, determine la corriente en cada circuito. Si un amperímetro que tiene una resistencia interna de 50 Ω se usa para
 medir la corriente en los circuitos, determine la corriente a través de él y calcule
 el efecto de carga en cada circuito.
 
 ![image](https://user-images.githubusercontent.com/84427371/122506160-59f91300-cfc3-11eb-8cad-dfe1498a7b84.png)
 
+![image](https://user-images.githubusercontent.com/84587091/122524747-1fe93a80-cfde-11eb-8006-453c35259845.png)
+
 37. Vea los circuitos de la figura 5-66. Utilice Multisim para encontrar lo siguiente:
 a. La corriente en cada circuito.
 b. El voltaje en cada resistor en el circuito
 
+![image](https://user-images.githubusercontent.com/84587091/122524804-31324700-cfde-11eb-837a-21cfe89af011.png)
+
 39. Vea el circuito de la figura 5-62. Use PSpice para encontrar lo siguiente:
 a. La corriente en el circuito.
 b. El voltaje en cada resistor en el circuito
+
+![image](https://user-images.githubusercontent.com/84587091/122525023-69d22080-cfde-11eb-93a7-2ba8376ce6fb.png)
 
 CAPITULO 6
 
@@ -251,7 +254,7 @@ la figura 6-54.
 
 15. Vea la red de la figura 6-58:
 a. Calcule los valores de R1, R2 y R3 para que la resistencia total de la red sea
-de 200 .
+de 200 Ω.
 
 ![image](https://user-images.githubusercontent.com/84427371/122506549-2965a900-cfc4-11eb-977d-2b7d5c5945e0.png)
 
@@ -337,7 +340,7 @@ d. Encuentre la potencia disipada por los resistores R2, R3 y R4
 43. Para el circuito de la figura 6-85 determine cada una de las corrientes indicadas. Si el circuito tiene un fusible de 15 A, como se muestra, ¿la corriente es
 suficiente para hacer que el fusible se abra?
 
-45. Un voltímetro con una resistencia interna de 1 M se usa para medir el voltaje que se indica en el circuito de la figura 6-86.
+45. Un voltímetro con una resistencia interna de 1 MΩ se usa para medir el voltaje que se indica en el circuito de la figura 6-86.
 a. Determine la lectura de voltaje que indicará el medidor.
 b. Calcule el efecto de carga del voltímetro cuando se usa para medir el voltaje indicado. 
 
