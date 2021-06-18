@@ -267,7 +267,8 @@ M, como se muestra en la figura 6-86.
 
 VIDEO:
 
-CONCLUSIONES 
+CONCLUSIONES:
+
 -En base a conceptos ya adquiridos como lo es la relación existente entre corriente, voltaje, potencia y resistores, se da paso al estudio del comportamiento de circuitos que tienen varios resistores en serie. Así mismo se verifica la importancia del uso de la ley de Ohm para la deducción de la regla del divisor de voltaje y verificación de la ley de voltaje de Kirchhoff. 
 
 -Por otra parte se analiza el funcionamiento y desarrollo de un circuito en paralelo y un circuito en serie, las diferencias y semejanzas entre ellos, entre otros aspectos fundamentales para su comprensión.  
