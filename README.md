@@ -65,17 +65,23 @@ a. La corriente, I.
 b. La caída de voltaje en cada resistor en el circuito.
 c. El voltaje en las terminales abiertas a y b.
 
+![image](https://user-images.githubusercontent.com/84427371/122508170-25875600-cfc7-11eb-9d97-2f539546bbe1.png)
+
 17. Repita el problema 16 para el circuito de la figura 5-60.
 
 ![image](https://user-images.githubusercontent.com/84427371/122505875-d17a7280-cfc2-11eb-9c4e-f2bad9e54e53.png)
 
+![image](https://user-images.githubusercontent.com/84427371/122508195-3041eb00-cfc7-11eb-8ab0-c257688f6d80.png)
+
 19. Repita el problema 18 para el circuito de la figura 5-62.
+![image](https://user-images.githubusercontent.com/84427371/122508234-3e900700-cfc7-11eb-9f1f-0822cf4ecb27.png)
 
 ![image](https://user-images.githubusercontent.com/84427371/122505901-e3f4ac00-cfc2-11eb-98f0-52bf11d2b381.png)
 
 5-5 Intercambio de componentes en serie
 21. Vuelva a dibujar los circuitos de la figura 5-64 para mostrar una sola fuente de
 voltaje para cada circuito. Encuentre la corriente para cada circuito. 
+
 
 ![image](https://user-images.githubusercontent.com/84427371/122505939-f373f500-cfc2-11eb-88e3-a3a57457c754.png)
 
@@ -90,6 +96,8 @@ a. Encuentre los valores de los resistores desconocidos.
 b. Calcule el voltaje en cada resistor.
 c. Determine la potencia disipada por cada resistor.
 
+![image](https://user-images.githubusercontent.com/84427371/122508415-9890cc80-cfc7-11eb-9c1b-f06830ad4009.png)
+
 27. Una serie de focos se conecta a una fuente de 120 V como se muestra en la figura 5-70.
 a. Determine la corriente en el circuito.
 b. Utilice la regla del divisor de voltaje para encontrar el voltaje en cada
@@ -102,6 +110,8 @@ pasos (a) a (c), si dos focos de la serie se quemaran.
 e. Basado en sus cálculos del paso (d), ¿qué cree que pasaría con la esperanza de vida del resto de los focos, si los dos que fallan no fueran reemplazados?
 
 ![image](https://user-images.githubusercontent.com/84427371/122506040-23bb9380-cfc3-11eb-98db-6c8b094dfdfa.png)
+
+![image](https://user-images.githubusercontent.com/84427371/122508474-a8a8ac00-cfc7-11eb-9e8d-b502a09f4d61.png)
 
 5-8 Notación de subíndices de voltaje
 29. Resuelva para hallar los voltajes Vab y Vbc en los circuitos de la figura 5-68
@@ -190,6 +200,8 @@ figura 6-66.
 25. Sin usar lápiz, papel o calculadora determine la resistencia aproximada de la
 red de la figura 6-68. 
 
+![image](https://user-images.githubusercontent.com/84427371/122508539-c1b15d00-cfc7-11eb-8f93-ca1323f18038.png)
+
 6-4 Fuentes de voltaje en paralelo
 27. Dos baterías de 20 V se conectan en paralelo para suministrar corriente a una
 carga de 100 V, como se muestra en la figura 6-69. Determine la corriente en
@@ -197,15 +209,24 @@ la carga y en cada batería.
 
 ![image](https://user-images.githubusercontent.com/84427371/122506621-56b25700-cfc4-11eb-8e66-d6d2a63ad082.png)
 
+![image](https://user-images.githubusercontent.com/84427371/122508648-e9082a00-cfc7-11eb-9efa-7cc6fb08b89b.png)
+
+
 6-5 Regla del divisor de corriente
 29. Utilice la regla del divisor de corriente para encontrar las corrientes I1 e I2 en
 las redes de la figura 6-71. 
 
 ![image](https://user-images.githubusercontent.com/84427371/122506660-65007300-cfc4-11eb-9d64-ff178ae4a6c2.png)
 
+![image](https://user-images.githubusercontent.com/84427371/122508662-f1606500-cfc7-11eb-9ece-e28771cad6fd.png)
+
 30. Repita el problema 29 para las redes de la figura 6-72.
 
+31. Utilice la regla del divisor de corriente para determinar todas las corrientes desconocidas en las redes de la figura 6-73
+
 33. Utilice la regla del divisor de corriente para determinar las resistencias desconocidas en la red de la figura 6-75.
+
+![image](https://user-images.githubusercontent.com/84427371/122508715-0937e900-cfc8-11eb-92da-b62aa6652086.png)
 
 35. Vea el circuito de la figura 6-77:
 a. Determine la resistencia equivalente RT, del circuito.
