@@ -243,6 +243,8 @@ de conectar en paralelo todos los elementos de la figura 6-46.
 
 5. Utilice la ley de corriente de Kirchhoff para determinar las magnitudes y direcciones de las corrientes que se indican en cada red que se muestra en la figura 6-48.
 
+![image](https://user-images.githubusercontent.com/84427371/122526618-1cef4980-cfe0-11eb-82a7-46215ee26a94.png)
+
 7. Considere la red de la figura 6-50.
 
 a. Calcule las corrientes I1, I2, I3 e I4.
@@ -256,12 +258,20 @@ c. Determine los valores de los resistores desconocidos, R1, R3 y R4
 
 ![image](https://user-images.githubusercontent.com/84427371/122506445-fb806480-cfc3-11eb-8289-b67d3b265789.png)
 
+![image](https://user-images.githubusercontent.com/84427371/122526696-32647380-cfe0-11eb-89f6-37cb2461a1cf.png)
+
 11. Calcule la conductancia total y resistencia total de cada red que se muestra en
 la figura 6-54.
 
 ![image](https://user-images.githubusercontent.com/84427371/122506492-10f58e80-cfc4-11eb-9385-8f3dca3d7881.png)
 
+![image](https://user-images.githubusercontent.com/84427371/122526739-3ee8cc00-cfe0-11eb-92fa-f0e0e4ff80dd.png)
+
 13. Para las redes de la figura 6-56 determine el valor de la(s) resistencia(s) desconocidas para que resulte la resistencia total que se indica.
+
+![image](https://user-images.githubusercontent.com/84427371/122526831-545df600-cfe0-11eb-8848-a3bba7183b59.png)
+
+![image](https://user-images.githubusercontent.com/84427371/122526802-4f00ab80-cfe0-11eb-8453-10f3f6d6063a.png)
 
 15. Vea la red de la figura 6-58:
 a. Calcule los valores de R1, R2 y R3 para que la resistencia total de la red sea
@@ -323,30 +333,65 @@ c. Use la regla del divisor de corriente para determinar la corriente en cada
 resistor.
 d. Verifique la ley de corriente de Kirchhoff en el nodo a.
 
+![image](https://user-images.githubusercontent.com/84427371/122527001-8a9b7580-cfe0-11eb-8a9c-06379ac76c21.png)
+
+![image](https://user-images.githubusercontent.com/84427371/122527070-9b4beb80-cfe0-11eb-96e8-9bdde8438549.png)
+
 6-6 Análisis de circuitos en paralelo
 37. Vea el circuito de la figura 6-79.
 a. Encuentre la resistencia total RT y la corriente I a través de la fuente de
 voltaje.
+
+![image](https://user-images.githubusercontent.com/84427371/122527140-af8fe880-cfe0-11eb-9779-4a3dc348eca9.png)
+
 b. Encuentre todas las corrientes desconocidas en el circuito.
+
+![image](https://user-images.githubusercontent.com/84427371/122527188-b880ba00-cfe0-11eb-9c7d-f4b23c93f62f.png)
+
 c Verifique la ley de corriente de Kirchhoff en el nodo a.
+
+![image](https://user-images.githubusercontent.com/84427371/122527220-bf0f3180-cfe0-11eb-981d-acad9003dd6c.png)
+
 d. Determine la potencia disipada por cada resistor. Verifique que la potencia
 total disipada por los resistores es igual a la potencia suministrada por la
 fuente de voltaje. 
 
+![image](https://user-images.githubusercontent.com/84427371/122527261-c6ced600-cfe0-11eb-8897-144ba93bd837.png)
+
+
 ![image](https://user-images.githubusercontent.com/84427371/122506742-8bbea980-cfc4-11eb-854b-55bcd83b01e4.png)
 
 39. Vea el circuito de la figura 6-81:
+40. 
+![image](https://user-images.githubusercontent.com/84427371/122527338-d8b07900-cfe0-11eb-8b70-8958345527fe.png)
+
 a. Calcule la corriente a través de cada resistor en el circuito.
+
+![image](https://user-images.githubusercontent.com/84427371/122527437-e9f98580-cfe0-11eb-97de-e9f84e1eb095.png)
+
 b. Determine la corriente total suministrada por la fuente de voltaje.
+
+![image](https://user-images.githubusercontent.com/84427371/122527464-f1209380-cfe0-11eb-9daf-662795631ec2.png)
+
 c. Encuentre la potencia disipada por cada resistor. 
 
 ![image](https://user-images.githubusercontent.com/84427371/122506778-98db9880-cfc4-11eb-8b3a-a7a1b793b225.png)
 
+![image](https://user-images.githubusercontent.com/84427371/122527512-fda4ec00-cfe0-11eb-94cb-f3743c0c3bea.png)
+
 41. En el circuito de la figura 6-83:
 a. Determine los valores de todos los resistores.
+
+![image](https://user-images.githubusercontent.com/84427371/122527565-0b5a7180-cfe1-11eb-95c2-f0c7df35e7da.png)
+
 b. Calcule las corrientes a través de R1, R2 y R4.
+
+![image](https://user-images.githubusercontent.com/84427371/122527588-11505280-cfe1-11eb-9279-3a7c542cb2bc.png)
+
 c. Encuentre las corrientes I1 e I2.
-d. Encuentre la potencia disipada por los resistores R2, R3 y R4
+
+![image](https://user-images.githubusercontent.com/84427371/122527612-18776080-cfe1-11eb-8bac-a0f9e66a7c59.png)
+
 
 43. Para el circuito de la figura 6-85 determine cada una de las corrientes indicadas. Si el circuito tiene un fusible de 15 A, como se muestra, ¿la corriente es
 suficiente para hacer que el fusible se abra?
@@ -355,7 +400,11 @@ suficiente para hacer que el fusible se abra?
 a. Determine la lectura de voltaje que indicará el medidor.
 b. Calcule el efecto de carga del voltímetro cuando se usa para medir el voltaje indicado. 
 
+
 ![image](https://user-images.githubusercontent.com/84427371/122506844-b7419400-cfc4-11eb-95b6-336f9055bce8.png)
+
+![image](https://user-images.githubusercontent.com/84427371/122527675-2a590380-cfe1-11eb-8092-84fd120fffcc.png)
+
 
 47. Un voltímetro analógico barato se usa para medir el voltaje en las terminales
 a y b en el circuito de la figura 6-87. Si el voltímetro indica que el voltaje Vab
