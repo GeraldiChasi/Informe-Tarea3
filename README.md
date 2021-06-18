@@ -1,5 +1,3 @@
-![image](https://user-images.githubusercontent.com/84587120/122517515-bd8c3c00-cfd5-11eb-8f15-e3c5d4326672.png)
-
 # Informe-Tarea3
 INFORME DE TAREA
 
@@ -11,7 +9,7 @@ OBJETIVO GENERAL:
 
 OBJETIVOS ESPECÍFICOS :
 
--Examinar la teoría del capítulo 5 referente al tema circuitos en CD.
+-Examinar la teoría del capítulo 5 referente al tema circuitos en serie .
 
 -Analizar la teoría del capítulo 6 referente al tema circuitos en paralelo.
 
@@ -53,9 +51,17 @@ la magnitud y la polaridad del voltaje V.
 
 7. Resuelva para hallar los voltajes desconocidos en el circuito de la figura 5-50.
 
-![image](https://user-images.githubusercontent.com/84587091/122514070-eeb63d80-cfd0-11eb-826f-e34834297e54.png)
+![image](https://user-images.githubusercontent.com/84587091/122518570-ff69b200-cfd6-11eb-9cb0-43a3e31de549.png)
 
-![image](https://user-images.githubusercontent.com/84587091/122514275-5076a780-cfd1-11eb-8751-c76e3dfcfed8.png)
+a. Utilice la ley de voltaje de Kirchhoff para encontrar las caídas de voltaje
+en R2 y R3.
+
+
+b. Determine la magnitud de la corriente, I.
+
+
+c. Encuentre la resistencia desconocida, R1.
+
 
 9. Determine la resistencia total de las redes que se muestran en la figura 5-52.
 
@@ -71,44 +77,83 @@ RT, y la corriente I.
 ![image](https://user-images.githubusercontent.com/84587091/122515613-52416a80-cfd3-11eb-9843-b7d1feda38ce.png)
 
 13. Para el circuito de la figura 5-56 encuentre las siguientes cantidades:
+
+![image](https://user-images.githubusercontent.com/84587091/122515894-b19f7a80-cfd3-11eb-976a-1503f3e999e3.png)
+
 a. La corriente del circuito.
+
+![image](https://user-images.githubusercontent.com/84587091/122516314-38545780-cfd4-11eb-90a9-607e41d7d7c1.png)
+
 b. La resistencia total.
+
+![image](https://user-images.githubusercontent.com/84587091/122516439-66399c00-cfd4-11eb-999f-866ad1cb6138.png)
+
 c. El valor de la resistencia desconocida, R.
+
+![image](https://user-images.githubusercontent.com/84587091/122516572-8cf7d280-cfd4-11eb-9a6a-5c712f611dca.png)
+
 d. La caída de voltaje en todos los resistores en el circuito.
+
+![image](https://user-images.githubusercontent.com/84587091/122516613-95e8a400-cfd4-11eb-852e-c99cd8be28e7.png)
+
 e. La potencia disipada por todos los resistores.
 
+![image](https://user-images.githubusercontent.com/84587091/122516622-9b45ee80-cfd4-11eb-91bf-075b25c3bd80.png)
+
 15. Para el circuito de la figura 5-58, encuentre las siguientes cantidades:
+
+![image](https://user-images.githubusercontent.com/84587091/122517496-b49b6a80-cfd5-11eb-88eb-43ea2fdfb858.png)
+
 a. La corriente, I.
+
+![image](https://user-images.githubusercontent.com/84587091/122517749-06dc8b80-cfd6-11eb-9b87-6bce9915f4f8.png)
+
 b. La caída de voltaje en cada resistor en el circuito.
+
+![image](https://user-images.githubusercontent.com/84587091/122517772-0c39d600-cfd6-11eb-9f7d-a1218822a041.png)
+
 c. El voltaje en las terminales abiertas a y b.
 
-![image](https://user-images.githubusercontent.com/84427371/122508170-25875600-cfc7-11eb-9d97-2f539546bbe1.png)
+![image](https://user-images.githubusercontent.com/84587091/122517791-122fb700-cfd6-11eb-99ea-30ee1cd22f63.png)
 
 17. Repita el problema 16 para el circuito de la figura 5-60.
 
-![image](https://user-images.githubusercontent.com/84427371/122505875-d17a7280-cfc2-11eb-9c4e-f2bad9e54e53.png)
+![image](https://user-images.githubusercontent.com/84587091/122519280-e7466280-cfd7-11eb-9d73-cedd0b191833.png)
 
-![image](https://user-images.githubusercontent.com/84427371/122508195-3041eb00-cfc7-11eb-8ab0-c257688f6d80.png)
+a. Utilice la ley de voltaje de Kirchhoff para encontrar las caídas de voltaje
+en R2 y R3.
+
+![image](https://user-images.githubusercontent.com/84587091/122519933-a7cc4600-cfd8-11eb-82b1-a6e288438e29.png)
+
+b. Determine la magnitud de la corriente, I.
+
+![image](https://user-images.githubusercontent.com/84587091/122519505-270d4a00-cfd8-11eb-8bf7-b3e23649de5e.png)
 
 19. Repita el problema 18 para el circuito de la figura 5-62.
+
 ![image](https://user-images.githubusercontent.com/84427371/122508234-3e900700-cfc7-11eb-9f1f-0822cf4ecb27.png)
 
 ![image](https://user-images.githubusercontent.com/84427371/122505901-e3f4ac00-cfc2-11eb-98f0-52bf11d2b381.png)
 
 5-5 Intercambio de componentes en serie
+
 21. Vuelva a dibujar los circuitos de la figura 5-64 para mostrar una sola fuente de
 voltaje para cada circuito. Encuentre la corriente para cada circuito. 
 
-
 ![image](https://user-images.githubusercontent.com/84427371/122505939-f373f500-cfc2-11eb-88e3-a3a57457c754.png)
 
+![image](https://user-images.githubusercontent.com/84587091/122520346-19a48f80-cfd9-11eb-841d-15e5ffe31f6a.png)
+
 5-6 Regla del divisor de voltaje
-23. Utilice la regla del divisor de voltaje para determinar el voltaje en cada resistor en los circuitos de la figura 5-66. Use sus resultados para verificar la ley de
-voltaje de Kirchhoff para cada circuito.
+
+23. Utilice la regla del divisor de voltaje para determinar el voltaje en cada resistor en los circuitos de la figura 5-66. Use sus resultados para verificar la ley de voltaje de Kirchhoff para cada circuito.
 
 ![image](https://user-images.githubusercontent.com/84427371/122505959-fd95f380-cfc2-11eb-8910-849e3412b6af.png)
 
+![image](https://user-images.githubusercontent.com/84587091/122520632-7738dc00-cfd9-11eb-838a-a7b0933d6468.png)
+
 25. Vea los circuitos de la figura 5-68:
+
 a. Encuentre los valores de los resistores desconocidos.
 b. Calcule el voltaje en cada resistor.
 c. Determine la potencia disipada por cada resistor.
@@ -116,14 +161,19 @@ c. Determine la potencia disipada por cada resistor.
 ![image](https://user-images.githubusercontent.com/84427371/122508415-9890cc80-cfc7-11eb-9c1b-f06830ad4009.png)
 
 27. Una serie de focos se conecta a una fuente de 120 V como se muestra en la figura 5-70.
+
 a. Determine la corriente en el circuito.
+
 b. Utilice la regla del divisor de voltaje para encontrar el voltaje en cada
 foco.
+
 c. Calcule la potencia disipada por cada foco.
+
 d. Si un solo foco llegara a estar en circuito abierto, la serie entera dejaría de
 funcionar. Para prevenir que ello ocurra, cada foco tiene una pequeña cinta
 de metal que pone en corto al foco cuando el filamento falla. Repita los
 pasos (a) a (c), si dos focos de la serie se quemaran.
+
 e. Basado en sus cálculos del paso (d), ¿qué cree que pasaría con la esperanza de vida del resto de los focos, si los dos que fallan no fueran reemplazados?
 
 ![image](https://user-images.githubusercontent.com/84427371/122506040-23bb9380-cfc3-11eb-98db-6c8b094dfdfa.png)
@@ -131,7 +181,12 @@ e. Basado en sus cálculos del paso (d), ¿qué cree que pasaría con la esperan
 ![image](https://user-images.githubusercontent.com/84427371/122508474-a8a8ac00-cfc7-11eb-9e8d-b502a09f4d61.png)
 
 5-8 Notación de subíndices de voltaje
+
 29. Resuelva para hallar los voltajes Vab y Vbc en los circuitos de la figura 5-68
+
+![image](https://user-images.githubusercontent.com/84587091/122521097-0a721180-cfda-11eb-8df7-dc52be86d698.png)
+
+![image](https://user-images.githubusercontent.com/84587091/122521143-16f66a00-cfda-11eb-9554-6f8255a9939f.png)
 
 31. Para los circuitos de la figura 5-71, determine el voltaje en cada resistor y
 calcule el voltaje Va.
