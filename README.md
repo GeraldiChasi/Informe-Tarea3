@@ -36,8 +36,13 @@ de cada medidor, con la magnitud y el signo correctos.
 
 ![image](https://user-images.githubusercontent.com/84587091/122512425-73538c80-cfce-11eb-83c4-8bb3366b51c2.png)
 
+![image](https://user-images.githubusercontent.com/84587091/122512669-cc232500-cfce-11eb-9cba-96f2f45d8fb7.png)
+
 3. Todos los resistores de la figura 5-46 son de 15 Ω. Determine para cada caso
-la magnitud y la polaridad del voltaje V. 
+la magnitud y la polaridad del voltaje V.
+
+![image](https://user-images.githubusercontent.com/84587091/122513063-7bf89280-cfcf-11eb-83b6-98444edf42d9.png)
+
 
 5. Determine los voltajes desconocidos en las redes de la figura 5-48.
 
