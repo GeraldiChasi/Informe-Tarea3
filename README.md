@@ -25,6 +25,9 @@ CAPITULO 5
 CAPITULO 6
 ![image](https://user-images.githubusercontent.com/84427371/122503866-cb829280-cfbe-11eb-9b98-d03b61345839.png)
 
+![image](https://user-images.githubusercontent.com/84587120/122504630-4a2bff80-cfc0-11eb-8fe0-38beaac33ca5.png)
+
+
 
 EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS
 
