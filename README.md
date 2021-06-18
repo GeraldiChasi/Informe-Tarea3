@@ -43,10 +43,17 @@ la magnitud y la polaridad del voltaje V.
 
 ![image](https://user-images.githubusercontent.com/84587091/122513063-7bf89280-cfcf-11eb-83b6-98444edf42d9.png)
 
-
 5. Determine los voltajes desconocidos en las redes de la figura 5-48.
 
+![image](https://user-images.githubusercontent.com/84587091/122513175-a4808c80-cfcf-11eb-9edc-2b9afd3c59b3.png)
+
+![image](https://user-images.githubusercontent.com/84587091/122513842-97b06880-cfd0-11eb-8a63-bed77dd585a2.png)
+
 7. Resuelva para hallar los voltajes desconocidos en el circuito de la figura 5-50.
+
+![image](https://user-images.githubusercontent.com/84587091/122514070-eeb63d80-cfd0-11eb-826f-e34834297e54.png)
+
+![image](https://user-images.githubusercontent.com/84587091/122514275-5076a780-cfd1-11eb-8751-c76e3dfcfed8.png)
 
 9. Determine la resistencia total de las redes que se muestran en la figura 5-52.
 
