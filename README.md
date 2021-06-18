@@ -11,7 +11,7 @@ OBJETIVO GENERAL:
 
 OBJETIVOS ESPECÍFICOS :
 
--Examinar la teoría del capítulo 5 referente al tema circuitos en serie .
+-Examinar la teoría del capítulo 5 referente al tema circuitos en CD.
 
 -Analizar la teoría del capítulo 6 referente al tema circuitos en paralelo.
 
