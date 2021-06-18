@@ -155,7 +155,9 @@ voltaje para cada circuito. Encuentre la corriente para cada circuito.
 25. Vea los circuitos de la figura 5-68:
 
 a. Encuentre los valores de los resistores desconocidos.
+
 b. Calcule el voltaje en cada resistor.
+
 c. Determine la potencia disipada por cada resistor.
 
 ![image](https://user-images.githubusercontent.com/84427371/122508415-9890cc80-cfc7-11eb-9c1b-f06830ad4009.png)
