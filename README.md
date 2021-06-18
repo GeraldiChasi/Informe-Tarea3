@@ -241,6 +241,8 @@ B C Y D Paralelo
 3. Sin cambiar las posiciones de los componentes, muestre al menos una forma
 de conectar en paralelo todos los elementos de la figura 6-46.
 
+![image](https://user-images.githubusercontent.com/84587091/122567654-81290200-d00e-11eb-9d14-cc3bf6338915.png)
+
 5. Utilice la ley de corriente de Kirchhoff para determinar las magnitudes y direcciones de las corrientes que se indican en cada red que se muestra en la figura 6-48.
 
 ![image](https://user-images.githubusercontent.com/84427371/122526618-1cef4980-cfe0-11eb-82a7-46215ee26a94.png)
@@ -248,12 +250,19 @@ de conectar en paralelo todos los elementos de la figura 6-46.
 7. Considere la red de la figura 6-50.
 
 a. Calcule las corrientes I1, I2, I3 e I4.
+
 b. Determine el valor de la resistencia R3.
-![image](https://user-images.githubusercontent.com/84427371/122506398-e277b380-cfc3-11eb-99fb-1ee48684ef06.png)
+
+![image](https://user-images.githubusercontent.com/84587091/122567837-b9c8db80-d00e-11eb-8f41-b489c3854ef0.png)
+
+![image](https://user-images.githubusercontent.com/84587091/122568086-044a5800-d00f-11eb-8507-c2569f933ddd.png)
 
 9. Vea la red de la figura 6-52:
+
 a. Utilice la ley de corriente de Kirchhoff para calcular las corrientes desconocidas, I1, I2, I3 e I4.
+
 b. Calcule el voltaje V, en la red.
+
 c. Determine los valores de los resistores desconocidos, R1, R3 y R4
 
 ![image](https://user-images.githubusercontent.com/84427371/122506445-fb806480-cfc3-11eb-8289-b67d3b265789.png)
@@ -274,33 +283,58 @@ la figura 6-54.
 ![image](https://user-images.githubusercontent.com/84427371/122526802-4f00ab80-cfe0-11eb-8453-10f3f6d6063a.png)
 
 15. Vea la red de la figura 6-58:
+
 a. Calcule los valores de R1, R2 y R3 para que la resistencia total de la red sea
 de 200 Ω.
 
-![image](https://user-images.githubusercontent.com/84427371/122506549-2965a900-cfc4-11eb-977d-2b7d5c5945e0.png)
-
 b. Si R3 tiene una corriente de 2 A, determine la corriente a través de los otros
 resistores.
+
 c. ¿Cuánta corriente debe aplicarse a toda la red?
 
+![image](https://user-images.githubusercontent.com/84587091/122568594-8a669e80-d00f-11eb-8f15-e8296cae26fc.png)
+
 17. Vea la red de la figura 6-60:
+
+![image](https://user-images.githubusercontent.com/84587091/122568712-aa965d80-d00f-11eb-9b66-1ac7ec8c9df3.png)
+
 a. Encuentre los voltajes a través de R1 y R2.
+
+![image](https://user-images.githubusercontent.com/84587091/122568885-d6b1de80-d00f-11eb-8036-c5878f89c80b.png)
+
 b. Determine la corriente I2.
 
+![image](https://user-images.githubusercontent.com/84587091/122568919-ddd8ec80-d00f-11eb-91e6-e31219b59123.png)
+
 19. Determine la resistencia total de cada red de la figura 6-62.
+
+![image](https://user-images.githubusercontent.com/84587091/122569103-04972300-d010-11eb-8a31-892dbc524ef6.png)
+
+RT = 2200
 
 21. Determine los valores de los resistores en el circuito de la figura 6-64, de
 acuerdo con las condiciones que se indican.
 
+![image](https://user-images.githubusercontent.com/84587091/122569265-2db7b380-d010-11eb-9b9d-07f7df1fa63b.png)
+
+![image](https://user-images.githubusercontent.com/84587091/122570242-2d6be800-d011-11eb-8731-424eecfdce4c.png)
+
 23. Sin usar lápiz, papel o calculadora determine la resistencia de cada red en la
 figura 6-66.
+
+![image](https://user-images.githubusercontent.com/84587091/122570472-673cee80-d011-11eb-9f77-d5ac6bfde97d.png)
+
+![image](https://user-images.githubusercontent.com/84587091/122572286-3958a980-d013-11eb-8344-f3b02e9a07c7.png)
 
 25. Sin usar lápiz, papel o calculadora determine la resistencia aproximada de la
 red de la figura 6-68. 
 
-![image](https://user-images.githubusercontent.com/84427371/122508539-c1b15d00-cfc7-11eb-8f93-ca1323f18038.png)
+![image](https://user-images.githubusercontent.com/84587091/122572388-4f666a00-d013-11eb-8e82-77c300a7ad5a.png)
+
+![image](https://user-images.githubusercontent.com/84587091/122573093-06fb7c00-d014-11eb-8769-bd602104696d.png)
 
 6-4 Fuentes de voltaje en paralelo
+
 27. Dos baterías de 20 V se conectan en paralelo para suministrar corriente a una
 carga de 100 V, como se muestra en la figura 6-69. Determine la corriente en
 la carga y en cada batería. 
@@ -424,6 +458,8 @@ M, como se muestra en la figura 6-86.
 
 
 VIDEO:
+
+https://youtu.be/AKThgQER1j8
 
 CONCLUSIONES:
 
