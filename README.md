@@ -33,13 +33,10 @@ CAPITULO 5
 5-1 Circuitos en serie
 1. Los voltímetros de la figura 5-44 tienen autopolaridad. Determine la lectura
 de cada medidor, con la magnitud y el signo correctos.
-2. Los voltímetros de la figura 5-45 tienen autopolaridad. Determine la lectura
-de cada medidor, con la magnitud y el signo correctos.
 
+![image](https://user-images.githubusercontent.com/84587091/122512425-73538c80-cfce-11eb-83c4-8bb3366b51c2.png)
 
-![image](https://user-images.githubusercontent.com/84427371/122505692-7ba5ca80-cfc2-11eb-9442-4c2c41a7ca3f.png)
-
-3. Todos los resistores de la figura 5-46 son de 15 . Determine para cada caso
+3. Todos los resistores de la figura 5-46 son de 15 Ω. Determine para cada caso
 la magnitud y la polaridad del voltaje V. 
 
 5. Determine los voltajes desconocidos en las redes de la figura 5-48.
