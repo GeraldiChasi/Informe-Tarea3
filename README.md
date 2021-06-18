@@ -224,8 +224,19 @@ b. El voltaje en cada resistor en el circuito
 CAPITULO 6
 
 6-1 Circuitos en paralelo
+
 1. Indique cuáles de los elementos en la figura 6-44 están conectados en paralelo
 y cuáles en serie.
+
+![image](https://user-images.githubusercontent.com/84587091/122525331-c03f5f00-cfde-11eb-9518-09f0a8dd39c6.png)
+
+A Y B Están en serie
+
+C Y F Paralelo
+
+D Y E En serie
+
+B C Y D Paralelo
 
 3. Sin cambiar las posiciones de los componentes, muestre al menos una forma
 de conectar en paralelo todos los elementos de la figura 6-46.
