@@ -23,7 +23,7 @@ CAPITULO 5
 
 CAPITULO 6
 
-![image](https://user-images.githubusercontent.com/84427371/122503866-cb829280-cfbe-11eb-9b98-d03b61345839.png)
+![image](https://user-images.githubusercontent.com/84587120/123846823-75292400-d8db-11eb-8e0a-64e16b14b4d4.png)
 
 
 EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS
